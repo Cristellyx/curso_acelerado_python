@@ -1,1 +1,1 @@
-# curso_acelerado_python
+# Curso acelerado python
