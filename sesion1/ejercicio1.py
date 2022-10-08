@@ -3,7 +3,7 @@
 Date 07-10-2022
 File: sesion/ejercicio1.py
 Autor: Cristell Molina Gomez
-Action: asignación de variables
+Action: Asignación de variables
 '''
 nombre_estado = 'Tabasco'
 superficie = 25267
