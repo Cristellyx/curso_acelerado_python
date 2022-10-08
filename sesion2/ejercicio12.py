@@ -2,7 +2,7 @@
 *********** Curso de programación acelerada en Python ************
 Date 07-10-2022
 File: sesion2/ejercicio12.py
-Autor: ..............
+Autor: Cristell Molina Gomez
 Action: estructura condicional anidada
 '''
 mes = int(input("Introduzca el mes de año: "))

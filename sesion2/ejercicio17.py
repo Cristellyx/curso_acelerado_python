@@ -2,7 +2,7 @@
 *********** Curso de programación acelerada en Python ************
 Date 07-10-2022
 File: sesion2/ejercicio17.py
-Autor: ..............
+Autor: Cristell Molina Gomez
 Action: Tabla de multiplicar
 '''
 numero = int(input("Introduce un numero (entero positivo): "))

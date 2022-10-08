@@ -2,7 +2,7 @@
 *********** Curso de programación acelerada en Python ************
 Date 07-10-2022
 File: sesion/ejercicio3.py
-Autor: Programador x
+Autor: Cristell Molina Gomez
 Action: pago de trabajador
 '''
 horas = float(input("Introduce tus horas de trabajo: "))

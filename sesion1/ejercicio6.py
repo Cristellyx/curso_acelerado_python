@@ -2,7 +2,7 @@
 *********** Curso de programación acelerada en Python ************
 Date 07-10-2022
 File: sesion/ejercicio6.py
-Autor: Programador x
+Autor: Cristell Molina Gomez
 Action: imprime capital obtenido de una inversión
 '''
 cantidad = float(input("¿Cantidad a invertir? "))

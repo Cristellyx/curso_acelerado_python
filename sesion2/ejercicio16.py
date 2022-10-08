@@ -2,7 +2,7 @@
 *********** Curso de programación acelerada en Python ************
 Date 07-10-2022
 File: sesion2/ejercicio16.py
-Autor: ..............
+Autor: Cristell Molina Gomez
 Action: imprime un triangulo
 '''
 n = int(input("Introduce la altura del triángulo (entero positivo): "))

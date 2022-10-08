@@ -2,7 +2,7 @@
 *********** Curso de programación acelerada en Python ************
 Date 07-10-2022
 File: sesion/ejercicio5.py
-Autor: Programador x
+Autor: Cristell Molina Gomez
 Action: Convertir grados de Celsius a Farenheit
 '''
 celsius = float(input("Introduzca los grados celsius: "))

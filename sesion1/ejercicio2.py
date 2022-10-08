@@ -2,7 +2,7 @@
 *********** Curso de programación acelerada en Python ************
 Date  07-10-2022
 File: sesion/ejercicio2.py
-Autor: Programador x
+Autor: Cristell Molina Gomez
 Action: superficie de un cuadrado
 '''
 lado=input("Ingrese la medida del lado del cuadrado:")

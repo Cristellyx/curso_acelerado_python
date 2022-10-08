@@ -2,7 +2,7 @@
 *********** Curso de programación acelerada en Python ************
 Date 07-10-2022
 File: sesion2/ejercicio8.py
-Autor: ..............
+Autor: Cristell Molina Gomez
 Action: detecta numero negativos
 '''
 numero = int(input("Escriba un número: "))

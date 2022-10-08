@@ -2,7 +2,7 @@
 *********** Curso de programación acelerada en Python ************
 Date 07-10-2022
 File: sesion/ejercicio4.py
-Autor: Programador x
+Autor: Cristell Molina Gomez
 Action: indice de masa corporal peso en kg/ estatura mtrs cuadrados
 '''
 peso = input("¿Cuál es tu peso en kg? ")

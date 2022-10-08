@@ -2,7 +2,7 @@
 *********** Curso de programación acelerada en Python ************
 Date: 07-10-2022
 File: sesion/ejercicio7.py
-Autor: Programador x
+Autor: Cristell Molina Gomez
 Action: Suma de los primeros números enteros
 '''
 n = int(input("Introduce un número entero: "))

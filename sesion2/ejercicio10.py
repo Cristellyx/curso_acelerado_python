@@ -2,7 +2,7 @@
 *********** Curso de programación acelerada en Python ************
 Date 07-10-2022
 File: sesion2/ejercicio10.py
-Autor: ..............
+Autor: Cristell Molina Gomez
 Action: numero par o impar
 '''
 n = int(input("Introduce un número entero: "))
