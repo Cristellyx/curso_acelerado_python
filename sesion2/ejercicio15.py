@@ -3,7 +3,7 @@
 Date 07-10-2022
 File: sesion2/ejercicio15.py
 Autor: Cristell Molina Gomez
-Action: suma valores ingresados por teclado
+Action: Suma valores ingresados por teclado
 '''
 suma = 0
 for f in range(10):

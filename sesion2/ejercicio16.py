@@ -3,7 +3,7 @@
 Date 07-10-2022
 File: sesion2/ejercicio16.py
 Autor: Cristell Molina Gomez
-Action: imprime un triangulo
+Action: Imprime un triangulo
 '''
 n = int(input("Introduce la altura del triángulo (entero positivo): "))
 for i in range(n):

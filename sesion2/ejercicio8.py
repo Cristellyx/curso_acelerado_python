@@ -3,7 +3,7 @@
 Date 07-10-2022
 File: sesion2/ejercicio8.py
 Autor: Cristell Molina Gomez
-Action: detecta numero negativos
+Action: Detecta numero negativos
 '''
 numero = int(input("Escriba un número: "))
 if numero < 0:

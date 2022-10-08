@@ -3,7 +3,7 @@
 Date 07-10-2022
 File: sesion2/ejercicio11.py
 Autor: Cristell Molina Gomez
-Action: estructura condicional anidada
+Action: Estructura condicional anidada
 '''
 mes = int(input("Introduzca el mes del año: "))
 

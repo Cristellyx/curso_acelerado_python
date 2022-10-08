@@ -3,7 +3,7 @@
 Date 07-10-2022
 File: sesion2/ejercicio14.py
 Autor: Cristell Molina Gomez
-Action: mostrar 10 veces un mensaje
+Action: Mostrar 10 veces un mensaje
 '''
 num = 1
 mensaje = input("Escriba un mensaje: ")

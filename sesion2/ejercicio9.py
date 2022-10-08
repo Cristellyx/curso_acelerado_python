@@ -3,7 +3,7 @@
 Date 07-10-2022
 File: sesion2/ejercicio9.py
 Autor: Cristell Molina Gomez
-Action: Contraseña
+Action: Validar contraseña
 '''
 password_correcta = "holaMundo"
 password = input("Escriba la contaseña: ")
