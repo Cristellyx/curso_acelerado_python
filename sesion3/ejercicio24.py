@@ -3,7 +3,7 @@
 Date 07-10-2022
 File: sesion3/ejercicio24.py
 Autor: Cristell Molina Gomez
-Action: Diccionario vacio
+Action: Hacer diccionario vacio
 '''
 persona = {}
 continuar = True

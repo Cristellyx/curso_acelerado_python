@@ -3,7 +3,7 @@
 Date 07-10-2022
 File: sesion3/ejercicio25.py
 Autor: Cristell Molina Gomez
-Action: Diccionario 
+Action: Diccionario traductor
 '''
 diccionario = {}
 palabras = input("Introduce la lista de palabras y traducciones en formato palabra:traducción separadas por comas: ")

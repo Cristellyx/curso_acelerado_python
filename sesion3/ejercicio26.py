@@ -3,7 +3,7 @@
 Date 07-10-2022
 File: sesion3/ejercicio26.py
 Autor: Cristell Molina Gomez
-Action: Divisas
+Action: Divisas en diccionario
 '''
 divisas = {'Euro':'€', 'Dollar':'$', 'Peso':'$'}
 ingresar = input('Introduce la divisa que desees conocer: ')

@@ -3,7 +3,7 @@
 Date 07-10-2022
 File: sesion3/ejercicio23.py
 Autor: Cristell Molina Gomez
-Action: Producto escalar
+Action: Producto escalar de vectores
 '''
 
 a = (1, 2, 3)

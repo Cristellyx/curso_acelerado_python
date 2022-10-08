@@ -3,7 +3,7 @@
 Date 07-10-2022
 File: sesion3/ejercicio20.py
 Autor: Cristell Molina Gomez
-Action: Suma de precios
+Action: Suma de precios y orden
 '''
 total = 0
 prices = [50, 75, 46, 22, 80, 65, 8]

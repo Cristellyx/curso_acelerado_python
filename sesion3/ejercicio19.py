@@ -3,7 +3,7 @@
 Date 07-10-2022
 File: sesion3/ejercicio19.py
 Autor: Cristell Molina Gomez
-Action:Palabra alreves
+Action: Palabra alreves
 '''
 word = input("Introduce una palabra: ")
 reversed_word = word

@@ -3,7 +3,7 @@
 Date 07-10-2022
 File: sesion3/ejercicio27.py
 Autor: Cristell Molina Gomez
-Action: Directorio
+Action: Directorio personal
 '''
 aux = ["Nombre","Edad","Direccion","Telefono"]
 datos = {}

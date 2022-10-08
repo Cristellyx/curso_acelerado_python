@@ -3,7 +3,7 @@
 Date 07-10-2022
 File: sesion3/ejercicio22.py
 Autor: Cristell Molina Gomez
-Action: Loteria
+Action: Ordenar números de loteria
 '''
 lista = []
 for f in range(5):
