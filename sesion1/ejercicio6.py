@@ -3,7 +3,7 @@
 Date 07-10-2022
 File: sesion/ejercicio6.py
 Autor: Cristell Molina Gomez
-Action: imprime capital obtenido de una inversión
+Action: Imprime capital obtenido de una inversión
 '''
 cantidad = float(input("¿Cantidad a invertir? "))
 interes = float(input("¿Interés porcentual anual? "))

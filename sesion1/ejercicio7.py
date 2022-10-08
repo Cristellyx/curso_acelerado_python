@@ -3,7 +3,7 @@
 Date: 07-10-2022
 File: sesion/ejercicio7.py
 Autor: Cristell Molina Gomez
-Action: Suma de los primeros números enteros
+Action: Suma de los primeros numeros enteros
 '''
 n = int(input("Introduce un número entero: "))
 suma = n * (n + 1) / 2

@@ -3,7 +3,7 @@
 Date  07-10-2022
 File: sesion/ejercicio2.py
 Autor: Cristell Molina Gomez
-Action: superficie de un cuadrado
+Action: Superficie de un cuadrado
 '''
 lado=input("Ingrese la medida del lado del cuadrado:")
 lado=float(lado)

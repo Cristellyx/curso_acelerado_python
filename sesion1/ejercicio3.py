@@ -3,7 +3,7 @@
 Date 07-10-2022
 File: sesion/ejercicio3.py
 Autor: Cristell Molina Gomez
-Action: pago de trabajador
+Action:Pago de trabajador
 '''
 horas = float(input("Introduce tus horas de trabajo: "))
 coste = float(input("Introduce lo que cobras por hora: "))
